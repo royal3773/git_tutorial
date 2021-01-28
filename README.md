@@ -1,1 +1,4 @@
 # git_tutorial
+aiueoijfoaewfonawofhogefuga
+ステージの変更取消しを確認
+hogehoge
